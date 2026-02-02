@@ -8,7 +8,7 @@
 I'm passionate about combining finance and data analytics to resolve business problems.  
 Currently focusing on Python, R, and statistical modeling to drive data-driven decision-making.
 
-🔎 Interest: Data Analytics · Valuation · Machine Learning
+🔎 Interest: Data Analytics · Valuation · Machine Learning  
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
 
 ---

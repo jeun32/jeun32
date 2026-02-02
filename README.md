@@ -20,7 +20,7 @@ Currently focusing on Python, R, and statistical modeling to drive data-driven d
 💼 현재 삼일회계법인 재무자문(Deals) 본부에서 근무하며  
 ⚙️ Georgiatech의 OMSA(데이터분석 온라인석사) 과정중에 있습니다.  
 
-재무와 데이터분석을 결합해 실제 비즈니스 문제를 해결하는데 관심이 있습니다.
+재무와 데이터분석을 결합해 비즈니스 문제를 해결하는데 관심이 있습니다.  
 Python, R 등 통계툴을 활용한 데이터사이언스를 공부하고 있습니다.
 
 🔎 관심분야: 데이터분석 · 가치평가 · 머신러닝  

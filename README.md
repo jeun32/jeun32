@@ -7,7 +7,7 @@
 
 Passionate about solving business problems by combining finance and data, while studying data science.
 
-🔎 Interest: Data · Robot · Valuation  
+🔎 Interest: Data·Valuation  
 ✍️ Blog: [Blog](https://jeun32.github.io)  
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
 
@@ -20,9 +20,9 @@ Passionate about solving business problems by combining finance and data, while 
 💼 현재 삼일회계법인 재무자문(Deals) 본부에서 근무하며  
 ⚙️ Georgiatech의 OMSA(데이터분석 온라인석사) 과정중에 있습니다.  
 
-재무와 데이터를 결합해 비즈니스 문제를 해결하는데 관심이 있으며 데이터사이언스를 공부하고 있습니다.
+재무와 데이터를 결합해 비즈니스 문제를 해결하는데 관심이 있으며 데이터사이언스를 공부하고 있습니다.  
 (26년5월 현재는 로봇섹터에 관심있음)
 
-🔎 관심분야: 데이터 · 로봇 · 가치평가  
+🔎 관심분야: 데이터·가치평가  
 ✍️ 블로그: [Blog](https://jeun32.github.io)  
 📫 연락하기: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)

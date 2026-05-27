@@ -5,10 +5,10 @@
 💼 Working in Financial Advisory (Deals) at PwC Korea  
 ⚙️ OMSA Graduate Student at Georgiatech (Class of 2027)  
 
-I'm passionate about combining finance and data analytics to resolve business problems.  
-Currently focusing on Python, R, and statistical modeling to drive data-driven decision-making.
+Passionate about solving business problems by combining finance and data, while studying data science.
 
-🔎 Interest: Data Analytics · Valuation · Machine Learning  
+🔎 Interest: Data · Robotg Valuation 
+✍️ Blog: [Blog](https://jeun32.github.io)  
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
 
 ---
@@ -20,8 +20,8 @@ Currently focusing on Python, R, and statistical modeling to drive data-driven d
 💼 현재 삼일회계법인 재무자문(Deals) 본부에서 근무하며  
 ⚙️ Georgiatech의 OMSA(데이터분석 온라인석사) 과정중에 있습니다.  
 
-재무와 데이터분석을 결합해 비즈니스 문제를 해결하는데 관심이 있습니다.  
-Python, R 등 통계툴을 활용한 데이터사이언스를 공부하고 있습니다.
+재무와 데이터를 결합해 비즈니스 문제를 해결하는데 관심이 있으며 데이터사이언스를 공부하고 있습니다.
 
-🔎 관심분야: 데이터분석 · 가치평가 · 머신러닝  
+🔎 관심분야: 데이터분석 · 가치평가 
+✍️ 블로그: [Blog](https://jeun32.github.io)  
 📫 연락하기: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
